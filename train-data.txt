@@ -1,0 +1,11 @@
+no preprop 25-epoch accuracy: 0.6278 - loss: 1.5707 - val_accuracy: 0.4645 - val_loss: 3.3075 RESPEKTABILNO
+preprop w Noise 50-epoch accuracy: 0.0699 - loss: 4.7058 - val_accuracy: 0.0584 - val_loss: 5.0111 UZASNO
+preprop 3-epoch accuracy: 0.0082 - loss: 6.2021 - val_accuracy: 0.0092 - val_loss: 6.1449 UZASNO
+preprop 3-epoch accuracy: 0.0134 - loss: 5.9101 - val_accuracy: 0.0129 - val_loss: 5.8516 
+preprop 3-epoch w 2xtra layers accuracy: 0.0382 - loss: 5.5987 - val_accuracy: 0.0359 - val_loss: 5.6827
+preprop w TICA 25-epoh accuracy: 0.2872 - loss: 3.3301 - val_accuracy: 0.2793 - val_loss: 3.5016 SOLIDNA PRICA
+preprop w TICA 50-epoh accuracy: 0.4732 - loss: 2.3769 - val_accuracy: 0.4108 - val_loss: 2.8658
+preprop 500-epohh accuracy: 0.6832 - loss: 1.5292 - val_accuracy: 0.6099 - val_loss: 1.9499 8x
+preprop 500-epoh accuracy: 0.6534 - loss: 1.5292 - val_accuracy: 0.6099 - val_loss: 1.9499 10x
+preprop 750-epoch accuracy: 0.7109 - loss: 1.1961 - val_accuracy: 0.6853 - val_loss: 1.5260
+preprop 500-epoch 3% noise 5% hue 5% gray 5% rot, others 10% accuracy: 0.8350 - loss: 0.6739 - val_accuracy: 0.5798 - val_loss: 3.7219
