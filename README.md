@@ -122,5 +122,5 @@ Training progress is shown through two plots:
 
 2. Model Loss: Comparison of training vs validation loss
 
-### License
-MIT License - See included LICENSE file
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
